@@ -153,6 +153,7 @@ class _ProfileScreen extends State<ProfileScreen> {
                       ListTile(
                         leading: Icon(Icons.logout, color: Colors.redAccent),
                         title: Text('Logout'), 
+                        onTap: () {  Navigator.pushNamed(context, '/login');},
                       ),
                     ],
                   ),
