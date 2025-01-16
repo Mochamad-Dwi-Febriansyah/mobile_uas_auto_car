@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "846232745215",
+    "project_id": "autocar-33353",
+    "storage_bucket": "autocar-33353.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846232745215:android:25ae345c68889376f588ca",
+        "android_client_info": {
+          "package_name": "com.autocaruass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846232745215-ufovq349e5321q0re977djd8v9986sre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-78m7CG587zHj0EpZrHLc-CTBz73jdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846232745215-ufovq349e5321q0re977djd8v9986sre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846232745215:android:65f2342cf01b73e0f588ca",
+        "android_client_info": {
+          "package_name": "com.example.uas_fix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846232745215-ufovq349e5321q0re977djd8v9986sre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-78m7CG587zHj0EpZrHLc-CTBz73jdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846232745215-ufovq349e5321q0re977djd8v9986sre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
